@@ -1,0 +1,39 @@
+img {width: 400px;
+   position: relative;
+  right: 150px;
+top: 300px;}
+.imageMessi { margin-left: 480px;   position: relative;   left: 500px;}
+.imageRonaldo {width: 40%;}
+
+.body {
+  height: 900px;
+  overflow: hidden;
+  background-color: #d6d6d66e;
+}
+h1 {
+  font-family: 'Chicle';
+  font-weight: 400;
+  text-align: center;
+}
+
+#barCharttwo {
+  position: relative;
+  bottom: 700px;
+  left: 330px;
+  width: 590px !important;
+  height: 380px !important;
+}
+#barChart {
+  position: relative;
+  bottom: 700px;
+  left: 300px;
+  width: 590px  !important;
+  height: 380px !important;
+
+}
+
+.app-loading-spinner  {
+  height: 100%;
+  width: 100%;
+
+}
